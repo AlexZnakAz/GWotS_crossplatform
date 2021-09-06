@@ -1,0 +1,47 @@
+1 - white - damage 1, weapon 1, speed 1, hp 1
+2 - pink - damage 1, weapon 1, speed 1, hp 2
+3 - blue - damage 1, weapon 3, speed 2, hp 4
+4 - yellow - damage 2, weapon 2, speed 1, hp 6
+5 - lagune - damage 2, weapon 4, speed 1, hp 8
+6 - violet - damage 3, weapon 1, speed 2, hp 10
+7 - green - damage 4, weapon 2, speed 1, hp 12
+8 - orange - damage 4, weapon 4, speed 1, hp 14
+
+9 - E1 - mob1 - damage 1, weapon 1, speed 1, hp 16
+10 - E2 - mob7 - damage 1, weapon 1, speed 1, hp 18
+11 - E3 - mob5 - damage 1, weapon 3, speed 2, hp 20
+12 - E4 - mob33 - damage 2, weapon 2, speed 1, hp 22
+13 - E5 - mob15 - damage 2, weapon 4, speed 1, hp 24
+14 - E6 - mob8 - damage 3, weapon 1, speed 2, hp 26
+15 - E7 - mob3 - damage 4, weapon 2, speed 1, hp 28
+16 - E8 - mob13 - damage 4, weapon 4, speed 1, hp 30
+
+17 - E9 - mob6 - damage 1, weapon 1, speed 1, hp 34
+18 - E10 - mob26 - damage 1, weapon 1, speed 1, hp 38
+19 - E11 - mob12 - damage 1, weapon 3, speed 2, hp 42
+20 - E12 - mob2 - damage 2, weapon 2, speed 1, hp 46
+21 - E13 - mob24 - damage 2, weapon 4, speed 1, hp 50
+22 - E14 - mob29 - damage 3, weapon 1, speed 2, hp 54
+23 - E15 - mob14 - damage 4, weapon 2, speed 1, hp 58
+24 - E16 - mob34 - damage 4, weapon 4, speed 1, hp 62
+
+25 - E17 - mob17 - damage 1, weapon 1, speed 1, hp 68
+26 - E18 - mob18 - damage 1, weapon 1, speed 1, hp 74
+27 - E19 - mob11 - damage 1, weapon 3, speed 2, hp 80
+28 - E20 - mob23 - damage 2, weapon 2, speed 1, hp 86
+29 - E21 - mob30 - damage 2, weapon 4, speed 1, hp 92
+30 - E22 - mob31 - damage 3, weapon 1, speed 2, hp 98
+31 - E23 - mob21 - damage 4, weapon 2, speed 1, hp 104
+32 - E24 - mob22 - damage 4, weapon 4, speed 1, hp 110
+
+33 - E25 - mob16 - damage 1, weapon 1, speed 1, hp 118
+34 - E26 - mob27 - damage 1, weapon 1, speed 1, hp 126
+35 - E27 - mob32 - damage 1, weapon 3, speed 2, hp 134
+36 - E28 - mob25 - damage 2, weapon 2, speed 1, hp 142
+37 - E29 - mob20 - damage 2, weapon 4, speed 1, hp 150
+38 - E30 - mob9 - damage 3, weapon 1, speed 2, hp 158
+39 - E31 - mob19 - damage 4, weapon 2, speed 1, hp 166
+40 - E32 - mob28 - damage 4, weapon 4, speed 1, hp 174
+
+41 - E33 - mob10 - damage 1, weapon 1, speed 1, hp 200
+42 - E34 - mob4 - damage 1, weapon 1, speed 1, hp 250
